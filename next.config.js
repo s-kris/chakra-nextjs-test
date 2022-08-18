@@ -1,6 +1,6 @@
  const nextConfig = {
          
-          async rewrites() {
+       /*   async rewrites() {
               return {
                   beforeFiles: [
       
@@ -35,6 +35,7 @@
                   ]
               }
           }
+          */
       }
 
       module.exports = nextConfig       
